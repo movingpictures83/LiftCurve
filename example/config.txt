@@ -1,0 +1,2 @@
+Prefix plugins/LiftCurve/example/
+Plugin LiftCurve inputfile lift_results.rds outputfile output.png
